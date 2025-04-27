@@ -1,0 +1,5 @@
+venv
+sandbox
+*.so
+build
+output
